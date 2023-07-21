@@ -1,0 +1,41 @@
+*Dia 1*
+
+* Instale o Node.js e o npm.
+* Crie um novo projeto Node.js.
+* Aprenda sobre os fundamentos da sintaxe JavaScript.
+* Crie um script simples que imprime "Olá, mundo!".
+
+*Dia 2*
+
+* Aprenda sobre os módulos JavaScript.
+* Crie um script que use módulos para dividir o código em diferentes arquivos.
+* Crie um script que use um módulo para carregar dados de um arquivo JSON.
+
+*Dia 3*
+
+* Aprenda sobre as funções anônimas JavaScript.
+* Crie um script que use funções anônimas para criar uma função de callback.
+* Crie um script que use funções anônimas para criar um evento.
+
+*Dia 4*
+
+* Aprenda sobre os eventos JavaScript.
+* Crie um script que use eventos para responder a cliques de botão.
+* Crie um script que use eventos para responder à entrada de texto.
+
+*Dia 5*
+
+* Aprenda sobre as promessas JavaScript.
+* Crie um script que use promessas para esperar por uma resposta de uma solicitação HTTP.
+* Crie um script que use promessas para lidar com erros.
+
+*Dia 6*
+
+* Aprenda sobre as APIs HTTP JavaScript.
+* Crie um script que faça uma solicitação HTTP a um servidor.
+* Crie um script que receba uma resposta HTTP de um servidor.
+
+*Dia 7*
+
+* Crie um projeto Node.js que atenda a uma necessidade específica.
+* Publique seu projeto online.
